@@ -1,5 +1,7 @@
 # RRAFESP - Ressignificar Rede de Apoio às Famílias e Egressos do Sistema Prisional
 
+---
+
 ## Quem Somos
 A **RRAFESP** é uma Organização da Sociedade Civil (OSC) comprometida em promover a **reinserção de egressos do sistema prisional** e de seus familiares, facilitando o acesso a serviços essenciais e promovendo a equidade social.
 
